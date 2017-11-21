@@ -92,8 +92,6 @@ end
 
 nome = da_boas_vindas
 dificuldade = pede_dificuldade
-#joga nome, dificuldade
-numero_secreto = sorteia_numero_secreto dificuldade
 
 limite_de_tentativas = 5 
 chutes = []
